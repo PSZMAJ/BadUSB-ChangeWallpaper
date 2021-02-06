@@ -24,6 +24,6 @@ with open('fotka.png', 'wb') as f:
         
 ##        
 time.sleep(1)
-im = Image.open("C:/fotka.png")
+im = Image.open("C:/Users/Public/fotka.png")
 im.show()
 time.sleep(1)
