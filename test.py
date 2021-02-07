@@ -8,7 +8,7 @@ Created on Fri Feb  5 18:22:27 2021
 	
 import requests
 
-from PIL import Image
+#from PIL import Image
 import time
 
 ## Pobieranie pliku
