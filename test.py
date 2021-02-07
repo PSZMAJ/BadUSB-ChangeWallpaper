@@ -23,7 +23,7 @@ with open('fotka.png', 'wb') as f:
         
         
 ##        
-time.sleep(1)
+time.sleep(1.5)
 ##im = Image.open("C:/Users/Public/BadUSB-ChangeWallpaper/fotka.png")
 ##im.show()
 ##time.sleep(1)
